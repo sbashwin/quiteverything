@@ -8,7 +8,10 @@ Follow these steps to get this app on your Mac:
   5. Open launchpad to find 'Quit Everything'.
   6. Click the app icon and witness all your applications quit.
   7. That's it.
-  
+
+A screen crab of the MacOS Dock housing Quit Everything app (the last icon in the dock)
+![Alt text](Screen Shot of Dock with Quit Everything App.png?raw=true "Optional Title") 
+
 Note: 
   1. Applications which have documents unsaved, a prompt will be thrown to the user to save the document. After saving the document. The application will quit.
   2. I also made a simple nice looking icon :-)
